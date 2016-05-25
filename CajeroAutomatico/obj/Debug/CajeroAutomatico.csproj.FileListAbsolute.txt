@@ -1,0 +1,6 @@
+c:\users\kemblys\documents\visual studio 2015\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\Kemblys\Documents\Visual Studio 2015\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\Kemblys\Documents\Visual Studio 2015\Projects\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\Kemblys\Documents\Visual Studio 2015\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojResolveAssemblyReference.cache
+C:\Users\Kemblys\Documents\Visual Studio 2015\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\Kemblys\Documents\Visual Studio 2015\Projects\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
